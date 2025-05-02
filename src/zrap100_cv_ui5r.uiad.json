@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Travel App CV - title FLC",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "cv.descoverycenter.zrap100cv"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_A72112255A321FCB2396216C119FAA6DFD7E4371_TM",
+    "semanticObject": "ZRAP100_CV",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_A72112255A321FCB2396216C119FAA6DFD7E4371_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel App CV - title FLC"
+      }
+    }
+  ]
+}

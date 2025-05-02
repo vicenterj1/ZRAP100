@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page for travel CV",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Travel App CV - Title in Launchpad"
+  },
+  "sections": [
+    {
+      "id": "SECTION_CV",
+      "title": "Section CV",
+      "visualizations": [
+        {
+          "id": "APP_DESCRIPTOR_ITEM_CV",
+          "ladiAssignment": {
+            "ladiId": "ZRAP100_CV_UI5R",
+            "tileId": "UI5R_A72112255A321FCB2396216C119FAA6DFD7E4371_AL"
+          }
+        }
+      ]
+    }
+  ]
+}
